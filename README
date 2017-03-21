@@ -1,0 +1,5 @@
+This Github Repository Is for My Conways Game of Life Project.
+It will be build using C, and will be improved as time goes on.
+As it currently stands, it allows you to enter in a file which contains a
+pattern, and allows you to pick the number of generations for which the game
+should play out. It then Outputs the Initial and End result onto the console, and a file.
